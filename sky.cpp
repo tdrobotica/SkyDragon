@@ -5,7 +5,7 @@ sky::sky(){
 
 }
 //Funciones de configuracion segun la tarjeta
-void sky::Wizard(){//Configuracion del Wizard 
+void sky::Wizard(){//Configuracion del Wizard
 /*
 Wizard es una tarjeta electronica diseñada para robotica general
 contiene las siguientes conexiones:

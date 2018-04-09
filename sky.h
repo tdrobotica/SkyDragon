@@ -1,5 +1,6 @@
 #ifndef sky_H
 #define sky_H
+#include <Arduino.h>
 /*
 	LIBRERIA SKYBOTS V0.1
 	Desarrollado por Skybots y tdrobotica para controlar los circuitos y robots de forma simple
